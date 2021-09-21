@@ -1,2 +1,2 @@
 # calculator-with-vuejs
-credits to mehraen mozhdi as front-end developer
+credits to mehraen-mozhdi as front-end developer
